@@ -8,3 +8,9 @@
     - Added root layout.svelte
     - Added some images
     - Removed Svelte template favicon
+    - Changed the favicon
+    - Added dynamic title
+    - Added sample text to homepage for testing
+    - Changed the navbar to be sticky
+    - Changed the layout of the large svg logo code so its easier to work with later
+    
