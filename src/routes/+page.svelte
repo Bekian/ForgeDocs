@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+    import GenericModal from "$lib/modals/+GenericModal.svelte";
+</script>
+
+<h1 class="text-neutral-300 m-10">hello world</h1>
+<GenericModal />
